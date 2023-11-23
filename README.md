@@ -7,4 +7,4 @@ ei-crop-disease---corn : 293499
 ei-crop-disease---grape : 306987
 ei-crop-disease---potato : 293549
 
-Additionally, the Custom Model developed using Pytorch Framework is attached.
+Additionally, the Custom Model developed using Pytorch Framework is attached (PV disease detection.ipynb).
